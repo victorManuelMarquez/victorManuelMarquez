@@ -1,4 +1,5 @@
-### Hi there 👋
+### Estadísticas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorManuelMarquez&layout=compact)](https://github.com/victorManuelMarquez/github-readme-stats)
 
 <!--
 **victorManuelMarquez/victorManuelMarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
